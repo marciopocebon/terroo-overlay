@@ -21,6 +21,7 @@ sudo layman -o https://raw.githubusercontent.com/terroo/terroo-overlay/master/te
 sudo layman -S
 sudo layman -a terroo-overlay
 ```
+> Confirm: `layman -L 2>&1 | grep terroo`
 
 # Install programs
 > Example
