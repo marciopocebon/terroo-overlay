@@ -4,11 +4,11 @@
     <repo quality="experimental" status="unofficial">
         <name>terroo</name>
         <description>Portage additions</description>
-        <homepage>https://github.com/terroo/terroo-ebuilds</homepage>
+        <homepage>https://github.com/terroo/terroo-overlay</homepage>
         <owner type="project">
             <email>contato@terminalroot.com.br</email>
             <name>Marcos Oliveira</name>
         </owner>
-        <source type="git">https://github.com/terroo/terroo-ebuilds</source>
+        <source type="git">https://github.com/terroo/terroo-overlay</source>
     </repo>
 </repositories>
