@@ -1,6 +1,8 @@
 # terroo-overlay
 Gentoo Portage Overlay for Layman
 
+[![Gitter](https://badges.gitter.im/marcosroot/community.svg)](https://gitter.im/marcosroot/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Prerequisites
 Do you have Layman already installed on your system? If '**No**', run the commands below before using this Overlay
 ```
